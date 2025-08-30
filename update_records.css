@@ -1,0 +1,91 @@
+/* Basic reset and layout setup */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Table styling */
+.container {
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically if needed */
+    height: calc(100vh - 40px); /* Full height minus padding */
+}
+
+table {
+    width: 50%; /* Further reduced width for smaller table */
+    border-collapse: collapse;
+    background-color: #f5f3f3;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 8px 10px; /* Compact padding for smaller rows */
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+/* Table Header */
+th {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1em; /* Slightly smaller font size */
+}
+
+/* Alternate row colors for better readability */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Action buttons (Update/Delete) */
+.action-btn {
+    padding: 6px 12px; /* Compact buttons */
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin: 3px;
+    font-weight: bold;
+}
+
+.action-btn.update {
+    background-color: #4CAF50;
+}
+
+.action-btn.update:hover {
+    background-color: #048d0b;
+}
+
+.action-btn.delete {
+    background-color: #f44336;
+}
+
+.action-btn.delete:hover {
+    background-color: #800d0b;
+}
+
+/* For 'No records found' message */
+p {
+    
+    font-size: 1.2em;
+    color: #04474f;
+}
+
+/* Style for the page container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
