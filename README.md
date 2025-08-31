@@ -26,7 +26,7 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 ---
 
 ## 📂 Folder Structure
-├── admin.css
+├─ admin.css <br>
 ├── admin.php
 ├── admin_regestration.php
 ├── all_records.php
