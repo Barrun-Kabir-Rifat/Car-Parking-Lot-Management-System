@@ -42,47 +42,47 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 └── [additional files…]    <br>
 
 
-**--Usage--**
--Open the project in your browser:
--http://localhost:8000/
--Login as admin via login.php (after registering with admin_regestration.php).
+**--Usage--**<br>
+-Open the project in your browser:  <br>
+-http://localhost:8000/  <br>
+-Login as admin via login.php (after registering with admin_regestration.php).   <br>
 
-*---Manage parking:---*
--Add vehicles → save.php
--View records → all_records.php
--Update → update_records.php
--Delete → delete.php
--Logout with logout.php.
-
-
-
-🔮 Future Improvements***
--Responsive design for mobile/tablet use
-
--Search & filter by license plate or date
-
--Automated fee calculation by duration
-
--User roles (Admin, Supervisor)
-
--REST API for mobile apps
-
--SMS/Email notifications for events
-
-🤝 Contributing
-
-Fork the repository
-
-Create your branch:
-
-git checkout -b feature/YourFeatureName
+*---Manage parking:---* <br>
+-Add vehicles → save.php   <br>
+-View records → all_records.php  <br>
+-Update → update_records.php  <br>
+-Delete → delete.php  <br>
+-Logout with logout.php.   <br>
 
 
-Commit changes:
 
-git commit -m "Add new feature"
+🔮 Future Improvements***  <br>
+-Responsive design for mobile/tablet use  <br>
 
-Push branch and open a Pull Request
+-Search & filter by license plate or date <br>
+
+-Automated fee calculation by duration  <br>
+
+-User roles (Admin, Supervisor)  <br>
+
+-REST API for mobile apps  <br>
+
+-SMS/Email notifications for events  <br>
+
+🤝 Contributing  <br>
+
+Fork the repository  <br>
+
+Create your branch: <br>
+
+git checkout -b feature/YourFeatureName  <br>
+
+
+Commit changes: <br>
+
+git commit -m "Add new feature" <br>
+
+Push branch and open a Pull Request <br>
 
 
 👨‍💻 Author
