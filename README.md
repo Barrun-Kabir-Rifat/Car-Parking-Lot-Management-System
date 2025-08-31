@@ -43,7 +43,7 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 
 ---
 
-##**--Usage--**<br>
+## 👤 Usage<br>
 
 -Open the project in your browser:  <br>
 -http://localhost:8000/  <br>
@@ -51,7 +51,7 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 
 ---
 
-##*---Manage parking:---* <br>
+## 🅿️ Manage parking:<br>
 
 -Add vehicles → save.php   <br>
 -View records → all_records.php  <br>
@@ -61,7 +61,7 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 
 ---
 
-##🔮 Future Improvements***  <br>
+## 🔮Future Improvements  <br>
 
 -Responsive design for mobile/tablet use  <br>
 -Search & filter by license plate or date <br>
@@ -72,7 +72,7 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 
 ---
 
-##🤝 Contributing  <br>
+## 🤝 Contributing  <br>
 Fork the repository  <br>
 Create your branch: <br>
 git checkout -b feature/YourFeatureName  <br>
@@ -82,7 +82,7 @@ Push branch and open a Pull Request <br>
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Barrun Kabir Rifat  <br>
 📧 Contact: rkrifat048@gmail.com <br>
