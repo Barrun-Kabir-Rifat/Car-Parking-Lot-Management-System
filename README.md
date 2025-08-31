@@ -41,52 +41,49 @@ It manages parking slots, tracks vehicle entries and exits, and displays real-ti
 ├── update_records.php   <br>
 └── [additional files…]    <br>
 
+---
 
-**--Usage--**<br>
+##**--Usage--**<br>
+
 -Open the project in your browser:  <br>
 -http://localhost:8000/  <br>
 -Login as admin via login.php (after registering with admin_regestration.php).   <br>
 
-*---Manage parking:---* <br>
+---
+
+##*---Manage parking:---* <br>
+
 -Add vehicles → save.php   <br>
 -View records → all_records.php  <br>
 -Update → update_records.php  <br>
 -Delete → delete.php  <br>
 -Logout with logout.php.   <br>
 
+---
 
+##🔮 Future Improvements***  <br>
 
-🔮 Future Improvements***  <br>
 -Responsive design for mobile/tablet use  <br>
-
 -Search & filter by license plate or date <br>
-
 -Automated fee calculation by duration  <br>
-
 -User roles (Admin, Supervisor)  <br>
-
 -REST API for mobile apps  <br>
-
 -SMS/Email notifications for events  <br>
 
-🤝 Contributing  <br>
+---
 
+##🤝 Contributing  <br>
 Fork the repository  <br>
-
 Create your branch: <br>
-
 git checkout -b feature/YourFeatureName  <br>
-
-
 Commit changes: <br>
-
 git commit -m "Add new feature" <br>
-
 Push branch and open a Pull Request <br>
 
+---
 
-👨‍💻 Author
+##👨‍💻 Author
 
-Barrun Kabir Rifat
-📧 Contact: rkrifat048@gmail.com
-🔗 GitHub: Barrun-Kabir-Rifat
+Barrun Kabir Rifat  <br>
+📧 Contact: rkrifat048@gmail.com <br>
+🔗 GitHub: Barrun-Kabir-Rifat <br>
